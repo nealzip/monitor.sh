@@ -1,5 +1,5 @@
-# monitor.sh V1.0
-# Shell Scrip Monitor a webpage and Blink Thingm Blink(1)
+# monitor.sh V1.0.1
+# Shell Script Monitor a webpage and Blink Thingm Blink(1)
 # Copyright 2012 Neal Zipper
 # Developed on OS X using bash
 # Licensed under GNU V3.0 
