@@ -24,5 +24,5 @@ while : ; do
 		./blink1-tool -m 100 --rgb 0,127,0   # fade to Green in 0.1 seconds
 	fi
 	
-
+	sleep 360
 done
